@@ -1,4 +1,6 @@
-Dados do aluno
+Cadastro de alunos
+
+Preencha os dados do aluno
 
 -Primeiro Nome:
 -Profissão:
@@ -6,6 +8,8 @@ Dados do aluno
 -O que faz nas horas vaga:
 -Feedback sobre o curso Qualidade de Software:
 -Feedback sobre a plataforma de estudo da EBAC:
+
+Nota - todos os dados são obrigatorios.
 
 Obrigado!!!
 
